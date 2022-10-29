@@ -10,7 +10,7 @@ const messageBody = {
   slackUsername: "Auraqule",
   backend: true,
   age: 25,
-  bio: "My name is Christian Peters, and I am a Backend Engineer ☺",
+  bio: "My name is Christian Peters, and I am a Backend Engineer ",
 };
 
 // MIDDLEWARES
